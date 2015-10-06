@@ -45,7 +45,7 @@ public class SolutionHeap {
         if (buildings.length == 0) {
             return res;
         }
-        Queue<Edge> edges = new PriorityQueue<>(new Comparator<Edge>() {
+        Queue<Edge> edges = new PriorityQueue<>(buildings.length, new Comparator<Edge>() {
             @Override
             public int compare(Edge e1, Edge e2) {
                 return e1.x - e2.x;

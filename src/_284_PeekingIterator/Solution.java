@@ -57,4 +57,10 @@ public class Solution implements Iterator<Integer> {
         return _iter.hasNext() || cache != null;
     }
 
+	@Override
+	public void remove() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
