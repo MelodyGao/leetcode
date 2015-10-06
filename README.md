@@ -1,3 +1,5 @@
+| # | Problem | Difficulty | Tags | Note |
+| :---: | ---- | ---- | ---- | ----- |
 | 001 | [Two Sum](https://github.com/interviewcoder/leetcode/blob/master/src/_001_TwoSum/Solution.java) | Medium | `Array` `Hash Table`  |  | 
 | 002 | [Add Two Numbers](https://github.com/interviewcoder/leetcode/blob/master/src/_002_AddTwoNumbers/Solution.java) | Medium | `Linked List` `Math`  |  | 
 | 003 | [Longest Substring Without Repeating Characters](https://github.com/interviewcoder/leetcode/blob/master/src/_003_LongestSubstringWithoutRepeatingCharacters/Solution.java) | Medium | `Hash Table` `Two Pointers` `String`  |  | 
